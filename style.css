@@ -44,7 +44,7 @@ body {
     display: none;
 }
 
-/* .thirdmemory {
+.thirdmemory {
     width: 650px;
     height: 600px;
     border: 5px solid grey;
@@ -52,7 +52,7 @@ body {
     display: none;
 }
 
-.fourthmemory {
+/* .fourthmemory {
     width: 650px;
     height: 600px;
     border: 5px solid grey;

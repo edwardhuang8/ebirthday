@@ -2,8 +2,8 @@ const createchoose = document.getElementsByClassName("createchoose")[0];
 const creatememory = document.getElementsByClassName("createm")[0];
 const firstmemory = document.getElementsByClassName("firstmemory")[0];
 const secondmemory = document.getElementsByClassName("secondmemory")[0];
-/* const thirdmemory = document.getElementsByClassName("thirdmemory")[0];
-const fourthmemory = document.getElementsByClassName("fourthmemory")[0];
+const thirdmemory = document.getElementsByClassName("thirdmemory")[0];
+/* const fourthmemory = document.getElementsByClassName("fourthmemory")[0];
 const fifthmemory = document.getElementsByClassName("fifthmemory")[0];
 const funnymemory = document.getElementsByClassName("funnymemory")[0]; */
 
@@ -57,7 +57,7 @@ function secondclose() {
     secondmemory.style.display = "none";
 }
 
-/* function thirdmem() {
+function thirdmem() {
     thirdmemory.style.display = "block";
 }
 
@@ -65,7 +65,7 @@ function thirdclose() {
     thirdmemory.style.display = "none";
 }
 
-function fourthmem() {
+/* function fourthmem() {
     fourthmemory.style.display = "block";
 }
 
