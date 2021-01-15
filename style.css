@@ -1,0 +1,77 @@
+body {
+    font-family: "Verdana";
+    font-size: 20px;
+    background-color: #D5F2F8;
+    text-align: center;
+    margin: auto;
+}
+
+.createm {
+    display: none;
+}
+
+.head {
+    margin: inherit;
+    text-align: center;
+    padding: 45px;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 2.5%;
+    border: 10px solid #3C3D60;
+
+}
+
+.ss1, .ss2, .ss3 {
+    width: 400px;
+    height: 300px;
+    border: 1px solid grey;
+    margin: auto;
+}
+
+.firstmemory {
+    width: 650px;
+    height: 700px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
+
+.secondmemory {
+    width: 650px;
+    height: 700px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
+
+.thirdmemory {
+    width: 650px;
+    height: 600px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
+
+.fourthmemory {
+    width: 650px;
+    height: 600px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
+
+.fifthmemory {
+    width: 750px;
+    height: 600px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
+
+.funnymemory {
+    width: 400px;
+    height: 600px;
+    border: 5px solid grey;
+    margin: auto;
+    display: none;
+}
